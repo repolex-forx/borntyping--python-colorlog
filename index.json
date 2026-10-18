@@ -1,0 +1,11 @@
+{
+  "org": "borntyping",
+  "repo": "python-colorlog",
+  "versions": [
+    {
+      "commit": "868b53d31d3a0d7bfd1d96585dfba4627009073f",
+      "tag": "v6.12.0",
+      "parsed_at": "2026-10-18T04:13:13.577919+00:00"
+    }
+  ]
+}
