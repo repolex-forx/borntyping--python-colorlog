@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/borntyping/python-colorlog/commit/868b53d31d3a0d7bfd1d96585dfba4627009073f",
       "git:hexsha": "868b53d31d3a0d7bfd1d96585dfba4627009073f",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v6.12.0"
     },
     {
